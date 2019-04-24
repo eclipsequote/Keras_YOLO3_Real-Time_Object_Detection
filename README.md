@@ -6,7 +6,7 @@
 
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 
-[![](https://github.com/eclipsequote/Keras_Real-Time_Object_Detection_Implementation_of_YOLO3/blob/master/Screen_Shot_2018-03-24_at_10.48.42_PM.png)
+[![.](https://github.com/eclipsequote/Keras_Real-Time_Object_Detection_Implementation_of_YOLO3/blob/master/Screen_Shot_2018-03-24_at_10.48.42_PM.png)
 
 YOLO: Real-Time Object Detection
 
